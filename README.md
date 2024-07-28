@@ -1,16 +1,17 @@
-# flutter_development
+# Global Flutter  Application 📲
 
-A new Flutter project.
+This project comprises of all the Flutter Development and related tools done by me. 
+Flutter is a hybrid framework developed by Google for making apps for Android and iOS system.
 
-## Getting Started
+## How to get started with Flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This is a [Flutter](https://flutter.dev/) project created with [`Flutter SDK`](https://flutter.dev/?gad_source=1&gclid=CjwKCAjw2Je1BhAgEiwAp3KY7wO64MLEMuDGbUD3FrG3m5nguC0MflVYlflBiA_4SHQT4sJA_WcFMRoC6SoQAvD_BwE&gclsrc=aw.ds) I have added all my practice of Flutter appplication here.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Install Flutter SDK and set path in your EV in Machine.
+
+
+2. Check Flutter Doctor and see what requirement you're yet to meet. 
+
+3. Once you finished set up you can either run this app from Android Studio or VS Code (I recommend VS)
